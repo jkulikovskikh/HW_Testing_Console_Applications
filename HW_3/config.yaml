@@ -1,0 +1,6 @@
+folder_in: /home/user/folder_in
+folder_out: /home/user/folder_out
+folder_ex: /home/user/folder_ex
+count: 3
+bs: 1M
+type: zip
